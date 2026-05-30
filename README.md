@@ -84,3 +84,20 @@ This project is licensing has not been determined.
 
 ## Contact
 For questions or collaboration requests, please submit an issue or pull request on this repository.
+
+## Citation
+
+If you use this code or data, a citation is appreciated (though not required; see the licence).
+
+```bibtex
+@inproceedings{anderson-etal-2025-model,
+  title     = {Model Misalignment and Language Change: Traces of AI-Associated Language in Unscripted Spoken English},
+  author    = {Anderson, Bryce and Galpin, Riley and Juzek, Tom S.},
+  booktitle = {Proceedings of the AAAI/ACM Conference on AI, Ethics, and Society (AIES)},
+  volume    = {8},
+  number    = {1},
+  pages     = {179--191},
+  year      = {2025},
+  doi       = {10.1609/aies.v8i1.36540}
+}
+```
