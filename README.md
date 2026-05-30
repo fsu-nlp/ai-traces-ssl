@@ -79,8 +79,12 @@ python ""
 - Lexical frequency analysis was conducted using occurrences per million (**OPM**).
 - Statistical significance was assessed using the **chi-square contingency table test**.
 
-## License
-This project is licensing has not been determined.
+## Licence
+
+- **Code** (the pipeline in `code/`): MIT No Attribution (MIT-0). See [`LICENSE`](LICENSE). Use it freely, no attribution required.
+- **Published data** (`appendix/`, `transcript_excerpts/`): CC0 1.0 Universal (public domain dedication). See [`LICENSE-DATA`](LICENSE-DATA).
+
+The transcript excerpts derive from third-party sources cited in the paper; the CC0 dedication covers our selection, compilation, and annotation, not any rights in the underlying source material.
 
 ## Contact
 For questions or collaboration requests, please submit an issue or pull request on this repository.
