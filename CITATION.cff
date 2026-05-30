@@ -1,0 +1,31 @@
+cff-version: 1.2.0
+message: "If you use this work, a citation is appreciated (though not required; see the licence)."
+title: "ai-traces-ssl: code for 'Model Misalignment and Language Change'"
+type: software
+authors:
+  - family-names: "Anderson"
+    given-names: "Bryce"
+  - family-names: "Galpin"
+    given-names: "Riley"
+  - family-names: "Juzek"
+    given-names: "Tom S."
+    orcid: "https://orcid.org/0000-0002-3204-3879"
+repository-code: "https://github.com/fsu-nlp/ai-traces-ssl"
+preferred-citation:
+  type: conference-paper
+  title: "Model Misalignment and Language Change: Traces of AI-Associated Language in Unscripted Spoken English"
+  authors:
+    - family-names: "Anderson"
+      given-names: "Bryce"
+    - family-names: "Galpin"
+      given-names: "Riley"
+    - family-names: "Juzek"
+      given-names: "Tom S."
+      orcid: "https://orcid.org/0000-0002-3204-3879"
+  year: 2025
+  collection-title: "Proceedings of the AAAI/ACM Conference on AI, Ethics, and Society (AIES)"
+  volume: 8
+  issue: 1
+  start: 179
+  end: 191
+  doi: "10.1609/aies.v8i1.36540"
