@@ -31,6 +31,23 @@ to changes in human language use. These findings parallel
 ethical concerns that misaligned models may shape social and
 moral beliefs.
 
+## Citation
+
+If you use this code or data, a citation is appreciated (though not required; see the licence).
+
+```bibtex
+@inproceedings{anderson-etal-2025-model,
+  title     = {Model Misalignment and Language Change: Traces of AI-Associated Language in Unscripted Spoken English},
+  author    = {Anderson, Bryce and Galpin, Riley and Juzek, Tom S.},
+  booktitle = {Proceedings of the AAAI/ACM Conference on AI, Ethics, and Society (AIES)},
+  volume    = {8},
+  number    = {1},
+  pages     = {179--191},
+  year      = {2025},
+  doi       = {10.1609/aies.v8i1.36540}
+}
+```
+
 ## Repository Contents
 - **Dataset snippets**: Due to copyright restrictions, only selected excerpts are available.
 - **Scripts**: Python scripts used for data transcription, preprocessing, and analysis.
@@ -88,26 +105,9 @@ python ""
 
 The transcript excerpts derive from third-party sources cited in the paper; the CC0 dedication covers our selection, compilation, and annotation, not any rights in the underlying source material.
 
-## Contact
-For questions or collaboration requests, please submit an issue or pull request on this repository.
-
-## Citation
-
-If you use this code or data, a citation is appreciated (though not required; see the licence).
-
-```bibtex
-@inproceedings{anderson-etal-2025-model,
-  title     = {Model Misalignment and Language Change: Traces of AI-Associated Language in Unscripted Spoken English},
-  author    = {Anderson, Bryce and Galpin, Riley and Juzek, Tom S.},
-  booktitle = {Proceedings of the AAAI/ACM Conference on AI, Ethics, and Society (AIES)},
-  volume    = {8},
-  number    = {1},
-  pages     = {179--191},
-  year      = {2025},
-  doi       = {10.1609/aies.v8i1.36540}
-}
-```
-
 ## AI Assistance
 
 Repository polished with Claude Code.
+
+## Contact
+For questions or collaboration requests, please submit an issue or pull request on this repository.
