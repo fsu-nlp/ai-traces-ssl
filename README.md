@@ -1,5 +1,7 @@
  Traces of AI-Associated Language in Unscripted Spoken English
 
+**Paper:** AIES 2025. [AAAI proceedings](https://ojs.aaai.org/index.php/AIES/article/view/36540) ([doi:10.1609/aies.v8i1.36540](https://doi.org/10.1609/aies.v8i1.36540)).
+
 ## Abstract
 In recent years, written language, particularly in science and
 education, has undergone remarkable shifts in word usage.
